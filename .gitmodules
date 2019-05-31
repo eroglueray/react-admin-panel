@@ -1,0 +1,3 @@
+[submodule "src/react-admin-panel"]
+	path = src/react-admin-panel
+	url = git@github.com:eroglueray/react-admin-panel.git
